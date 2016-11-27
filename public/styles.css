@@ -1,0 +1,19 @@
+.container .row{
+    margin-top: 10%;
+}
+
+.card-action {
+    text-align: center;
+}
+
+.btn {
+    width: 30%;
+}
+
+.progress {
+    visibility: hidden;
+}
+
+blockquote {
+    display: none;
+}
